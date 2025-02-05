@@ -1,0 +1,9 @@
+Need row & colum 
+
+table tag is a multi tag.
+
+for row tr tag needed , table row ,th tag for bold
+for colum td tag neede , table data 
+
+rowspan is a attribute 
+colspan is a attribute
